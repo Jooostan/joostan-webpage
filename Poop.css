@@ -1,0 +1,39 @@
+body {
+  margin: auto;
+  background-color: green;
+  background-position: center;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+#menubar {
+  background-image: url();
+  height: ;
+  text-align: ;
+  padding-right: 10px;
+  font-family: ;
+  font-size: ;
+  color: ;
+}
+
+#menubar > a:link {
+  color: ;
+  text-decoration: none;
+}
+
+#menubar > a:visited {
+  color: ;
+  text-decoration: none;
+}
+
+#menubar > a:hover {
+  background-color: ;
+  font-size: ;
+  color: ;
+  text-decoration: ;
+}
+
+#menubar > a:active {
+  color: ;
+  text-decoration: ;
+}
